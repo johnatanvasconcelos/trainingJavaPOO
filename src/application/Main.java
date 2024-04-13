@@ -1,5 +1,6 @@
 package application;
 
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Main {
